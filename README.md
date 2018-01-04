@@ -1,2 +1,2 @@
 # Hello-World
-ust editing ReadMe for GITHub testy
+Just editing ReadMe for GITHub testy
